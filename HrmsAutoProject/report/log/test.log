@@ -1,0 +1,189 @@
+INFO   [2022/07/16 16:39:09] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/16 16:41:39] test_login.py[line:40]: [test_login1]信息：test_login1用例执行失败 :: 账号或密码错误 != 账号或密码错误1
+INFO   [2022/07/16 16:43:31] test_login.py[line:40]: [test_login1]信息：test_login1用例执行失败 :: 账号或密码错误 != 账号或密码错误1
+INFO   [2022/07/16 16:44:39] test_login.py[line:40]: [test_login1]信息：test_login1用例执行失败 :: 账号或密码错误 != 账号或密码错误1
+INFO   [2022/07/16 16:46:27] test_login.py[line:40]: [test_login1]信息：test_login1用例执行失败 :: 账号或密码错误 != 账号或密码错误1
+INFO   [2022/07/16 16:48:07] test_login.py[line:40]: [test_login1]信息：test_login1用例执行失败 :: 账号或密码错误 != 账号或密码错误1
+INFO   [2022/07/16 16:48:45] test_login.py[line:40]: [test_login1]信息：test_login1用例执行失败 :: 账号或密码错误 != 账号或密码错误1
+INFO   [2022/07/16 16:53:57] test_login.py[line:111]: [test_login5]信息：test_login5用例执行失败 :: 账号或密码错误 != 保胜
+INFO   [2022/07/16 16:55:04] test_login.py[line:40]: [test_login1]信息：test_login1用例执行失败 :: 账号或密码错误 != 账号或密码错误1
+INFO   [2022/07/16 16:55:20] test_login.py[line:57]: [test_login2]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 16:55:20] test_login.py[line:57]: [test_login2]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 16:55:31] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 16:55:31] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 16:55:31] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 16:55:56] test_login.py[line:111]: [test_login5]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 16:55:56] test_login.py[line:111]: [test_login5]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 16:55:56] test_login.py[line:111]: [test_login5]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 16:55:56] test_login.py[line:111]: [test_login5]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 16:59:22] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 16:59:42] test_login.py[line:40]: [test_login1]信息：test_login1用例执行失败 :: 账号或密码错误 != 账号或密码错误1
+INFO   [2022/07/16 16:59:58] test_login.py[line:57]: [test_login2]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 16:59:58] test_login.py[line:57]: [test_login2]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 17:00:09] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 17:00:09] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 17:00:09] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 17:00:19] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 17:00:19] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 17:00:19] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 17:00:19] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 17:00:36] test_login.py[line:111]: [test_login5]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 17:00:36] test_login.py[line:111]: [test_login5]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 17:00:36] test_login.py[line:111]: [test_login5]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 17:00:36] test_login.py[line:111]: [test_login5]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 17:00:36] test_login.py[line:111]: [test_login5]信息：Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()="账号或密码错误"]"}
+  (Session info: chrome=103.0.5060.114)
+  (Driver info: chromedriver=103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}),platform=Windows NT 10.0.19044 x86_64)
+
+INFO   [2022/07/16 17:07:54] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/16 17:08:26] test_login.py[line:57]: [test_login2]信息：Message: 
+
+INFO   [2022/07/16 17:08:26] test_login.py[line:57]: [test_login2]信息：Message: 
+
+INFO   [2022/07/16 17:08:37] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 17:08:37] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 17:08:37] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 17:08:48] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 17:08:48] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 17:08:48] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 17:08:48] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 17:09:00] test_login.py[line:115]: [test_login5]信息：PASS
+INFO   [2022/07/16 17:09:00] test_login.py[line:115]: [test_login5]信息：PASS
+INFO   [2022/07/16 17:09:00] test_login.py[line:115]: [test_login5]信息：PASS
+INFO   [2022/07/16 17:09:00] test_login.py[line:115]: [test_login5]信息：PASS
+INFO   [2022/07/16 17:09:00] test_login.py[line:115]: [test_login5]信息：PASS
+INFO   [2022/07/16 17:47:32] log.py[line:57]: selenium_百度搜索 与 selenium不一致!!
+INFO   [2022/07/16 17:47:59] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/16 17:48:33] test_login.py[line:57]: [test_login2]信息：Message: 
+
+INFO   [2022/07/16 17:48:47] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/16 17:48:59] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/16 17:49:12] test_login.py[line:115]: [test_login5]信息：PASS
+INFO   [2022/07/18 09:44:28] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/18 09:45:03] test_login.py[line:57]: [test_login2]信息：Message: 
+
+INFO   [2022/07/18 09:45:16] test_login.py[line:79]: [test_login3]信息：PASS
+INFO   [2022/07/18 09:45:28] test_login.py[line:97]: [test_login4]信息：PASS
+INFO   [2022/07/18 09:45:41] test_login.py[line:115]: [test_login5]信息：PASS
+INFO   [2022/07/18 09:47:16] test_login.py[line:57]: [test_login2]信息：Message: 
+
+INFO   [2022/07/18 09:57:14] test_login.py[line:57]: [test_login2]信息：PASS
+INFO   [2022/07/18 10:00:43] test_login.py[line:59]: [test_login2]信息：执行失败，请检查
+INFO   [2022/07/18 10:04:47] test_login.py[line:59]: [test_login2]信息：执行失败，请检查
+INFO   [2022/07/18 10:07:02] test_login.py[line:63]: [test_login2]信息：PASS
+INFO   [2022/07/19 00:00:13] test_addot.py[line:43]: [test_addot1]信息：用例执行失败，请检查参数和代码！！
+INFO   [2022/07/19 00:03:18] test_addot.py[line:49]: [test_addot1]信息：PASS
+INFO   [2022/07/19 00:20:17] test_addot.py[line:49]: [test_addot1]信息：PASS
+INFO   [2022/07/19 09:00:38] test_addot.py[line:49]: [test_addot1]信息：PASS
+INFO   [2022/07/19 09:02:50] test_addot.py[line:49]: [test_addot1]信息：PASS
+INFO   [2022/07/19 09:03:11] test_addot.py[line:67]: [test_addot2]信息：PASS
+INFO   [2022/07/19 09:06:17] test_addot.py[line:45]: [test_addot1]信息：用例执行失败，请检查参数和代码！！
+INFO   [2022/07/19 09:06:43] test_addot.py[line:63]: [test_addot2]信息：用例执行失败，请检查参数或代码！！
+INFO   [2022/07/19 09:14:42] test_addot.py[line:45]: [test_addot1]信息：False is not true
+INFO   [2022/07/19 09:15:08] test_addot.py[line:63]: [test_addot2]信息：False is not true
+INFO   [2022/07/19 10:01:15] test_ot.py[line:79]: [test_ot3]信息：'NoneType' object has no attribute 'hint_text'
+INFO   [2022/07/19 10:09:43] test_ot.py[line:49]: [test_ot1]信息：PASS
+INFO   [2022/07/19 10:10:04] test_ot.py[line:67]: [test_ot2]信息：PASS
+INFO   [2022/07/19 10:39:33] test_ot.py[line:80]: [test_ot3]信息：'NoneType' object has no attribute 'hint_text'
+INFO   [2022/07/19 10:41:26] test_ot.py[line:80]: [test_ot3]信息：'NoneType' object has no attribute 'hint_text'
+INFO   [2022/07/19 10:50:26] test_ot.py[line:45]: [test_ot1]信息：False is not true
+INFO   [2022/07/19 10:50:48] test_ot.py[line:63]: [test_ot2]信息：False is not true
+INFO   [2022/07/19 10:51:03] test_ot.py[line:80]: [test_ot3]信息：'NoneType' object has no attribute 'hint_text'
+INFO   [2022/07/19 10:53:04] test_ot.py[line:49]: [test_ot1]信息：PASS
+INFO   [2022/07/19 10:53:25] test_ot.py[line:67]: [test_ot2]信息：PASS
+INFO   [2022/07/19 10:53:40] test_ot.py[line:80]: [test_ot3]信息：'NoneType' object has no attribute 'hint_text'
+INFO   [2022/07/19 11:04:47] test_ot.py[line:49]: [test_ot1]信息：PASS
+INFO   [2022/07/19 11:14:47] test_ot.py[line:79]: [test_ot3]信息：Message: 
+
+INFO   [2022/07/19 11:19:00] test_ot.py[line:79]: [test_ot3]信息：Message: 
+
+INFO   [2022/07/19 11:26:52] test_ot.py[line:81]: [test_ot3]信息：Message: 
+
+INFO   [2022/07/19 11:29:28] test_ot.py[line:45]: [test_ot1]信息：'OtListPage' object has no attribute 'successbutton'
+INFO   [2022/07/19 11:29:50] test_ot.py[line:67]: [test_ot2]信息：PASS
+INFO   [2022/07/19 11:32:38] test_ot.py[line:81]: [test_ot3]信息：Message: 
+
+INFO   [2022/07/19 11:35:59] test_ot.py[line:82]: [test_ot3]信息：huoqutext() missing 1 required positional argument: 'text'
+INFO   [2022/07/19 11:38:12] test_ot.py[line:86]: [test_ot3]信息：PASS
+INFO   [2022/07/19 14:06:21] test_ot.py[line:43]: [test_ot1]信息：False is not true
+INFO   [2022/07/25 22:09:21] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/25 22:09:33] test_login.py[line:63]: [test_login2]信息：PASS
+INFO   [2022/07/25 22:09:44] test_login.py[line:80]: [test_login3]信息：PASS
+INFO   [2022/07/25 22:09:55] test_login.py[line:98]: [test_login4]信息：PASS
+INFO   [2022/07/25 22:10:08] test_login.py[line:116]: [test_login5]信息：PASS
+INFO   [2022/07/25 22:10:54] test_ot.py[line:43]: [test_ot1]信息：False is not true
+INFO   [2022/07/25 22:11:40] test_ot.py[line:65]: [test_ot2]信息：PASS
+INFO   [2022/07/25 22:11:57] test_ot.py[line:82]: [test_ot3]信息：PASS
+INFO   [2022/07/25 22:23:45] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/25 22:23:56] test_login.py[line:63]: [test_login2]信息：PASS
+INFO   [2022/07/25 22:24:08] test_login.py[line:80]: [test_login3]信息：PASS
+INFO   [2022/07/25 22:24:19] test_login.py[line:98]: [test_login4]信息：PASS
+INFO   [2022/07/25 22:24:31] test_login.py[line:116]: [test_login5]信息：PASS
+INFO   [2022/07/25 22:25:17] test_ot.py[line:43]: [test_ot1]信息：False is not true
+INFO   [2022/07/25 22:25:38] test_ot.py[line:65]: [test_ot2]信息：PASS
+INFO   [2022/07/25 22:25:55] test_ot.py[line:82]: [test_ot3]信息：PASS
+INFO   [2022/07/25 22:32:29] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/25 22:32:41] test_login.py[line:63]: [test_login2]信息：PASS
+INFO   [2022/07/25 22:32:52] test_login.py[line:80]: [test_login3]信息：PASS
+INFO   [2022/07/25 22:33:03] test_login.py[line:98]: [test_login4]信息：PASS
+INFO   [2022/07/25 22:33:15] test_login.py[line:116]: [test_login5]信息：PASS
+INFO   [2022/07/25 22:34:12] test_ot.py[line:43]: [test_ot1]信息：False is not true
+INFO   [2022/07/25 22:34:34] test_ot.py[line:65]: [test_ot2]信息：PASS
+INFO   [2022/07/25 22:34:51] test_ot.py[line:82]: [test_ot3]信息：PASS
+INFO   [2022/07/25 22:39:25] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/25 22:39:36] test_login.py[line:63]: [test_login2]信息：PASS
+INFO   [2022/07/25 22:39:47] test_login.py[line:80]: [test_login3]信息：PASS
+INFO   [2022/07/25 22:39:58] test_login.py[line:98]: [test_login4]信息：PASS
+INFO   [2022/07/25 22:40:10] test_login.py[line:116]: [test_login5]信息：PASS
+INFO   [2022/07/25 22:41:08] test_ot.py[line:43]: [test_ot1]信息：False is not true
+INFO   [2022/07/25 22:41:30] test_ot.py[line:65]: [test_ot2]信息：PASS
+INFO   [2022/07/25 22:41:47] test_ot.py[line:82]: [test_ot3]信息：PASS
+INFO   [2022/07/25 22:49:08] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/25 22:49:19] test_login.py[line:63]: [test_login2]信息：PASS
+INFO   [2022/07/25 22:49:30] test_login.py[line:80]: [test_login3]信息：PASS
+INFO   [2022/07/25 22:49:41] test_login.py[line:98]: [test_login4]信息：PASS
+INFO   [2022/07/25 22:49:54] test_login.py[line:116]: [test_login5]信息：PASS
+INFO   [2022/07/25 22:50:52] test_ot.py[line:43]: [test_ot1]信息：False is not true
+INFO   [2022/07/25 22:51:13] test_ot.py[line:65]: [test_ot2]信息：PASS
+INFO   [2022/07/25 22:51:30] test_ot.py[line:82]: [test_ot3]信息：PASS
+INFO   [2022/07/30 22:51:39] test_login.py[line:44]: [test_login1]信息：PASS
+INFO   [2022/07/30 22:51:50] test_login.py[line:63]: [test_login2]信息：PASS
+INFO   [2022/07/30 22:52:02] test_login.py[line:80]: [test_login3]信息：PASS
+INFO   [2022/07/30 22:52:13] test_login.py[line:98]: [test_login4]信息：PASS
+INFO   [2022/07/30 22:52:25] test_login.py[line:116]: [test_login5]信息：PASS
