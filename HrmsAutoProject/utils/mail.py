@@ -10,9 +10,9 @@ import os
 def send_mail():
 
     now_time = time.strftime('%Y-%m-%d %H_%M_%S')
-    sender = ''
-    mail_pwd = ''
-    tolist = ['', '']
+    sender = '发件人邮件'
+    mail_pwd = '邮箱授权码'
+    tolist = ['邮件接收人1', '邮件接收人2']
 
     # 创建邮件对象
     message = MIMEMultipart()
